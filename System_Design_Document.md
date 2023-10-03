@@ -3,7 +3,7 @@ How to run the chat app?
   2. Run terminal in the folder backend after ensuring the path location to be backend.If its not set predefined,use "cd backend".
   3. Type "npm run start" in the terminal.
   4. Now,Run terminal in the folder frontend
-  5. Type "npm run install"
+  5. If npm is already installed,ignore this step,or,Type "npm run install".
   6. After the installation of the npm modules,Type "npm run dev".
   7. Click on the url in the terminal section.
 
