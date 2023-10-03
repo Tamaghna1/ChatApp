@@ -1,6 +1,6 @@
 How to run the chat app?
   1. Upload both the folders,backend and frontend, in visual studio code.
-  2. Run terminal in the folder backend.
+  2. Run terminal in the folder backend after ensuring the path location to be backend.If its not set predefined,use "cd backend".
   3. Type "npm run start" in the terminal.
   4. Now,Run terminal in the folder frontend
   5. Type "npm run install"
